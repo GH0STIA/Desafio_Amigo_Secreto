@@ -39,7 +39,8 @@ Aplicación sencilla en **JavaScript, HTML y CSS** que permite a los usuarios in
 
 ## 📸 Vista previa
 
-_(Agrega aquí una captura de pantalla o gif de tu aplicación funcionando)_
+<img width="1256" height="634" alt="image" src="https://github.com/user-attachments/assets/9b3aeb5b-f2b1-49a2-9dde-98f469a31424" />
+
 
 ---
 
