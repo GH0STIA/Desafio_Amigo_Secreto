@@ -1,2 +1,3 @@
-# Desafio_Amigo_Secreto
-hola muchachos en este repositorio presento el primer challenge de alura latam trata del desafio amigo secreto,  aqui ponemos a prueba tecnicas de javascript y mas
+# Desafio Amigo Secreto
+
+Presento el Desafio de amigo secreto en el cual se implementan los conocimientos que aprendimos en logica de programacion en javascript
